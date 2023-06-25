@@ -5,7 +5,6 @@ In this Machine Learning Project, the following tasks were completed.
 1.1. Import Libraries and tools
 1.2. Load and view Training and Testing Dataset
 
-
 2. PERFORM SIMPLE EXPLORATORY DATA ANALYSIS OF UNSW DATA FRAME
 2.1. Understanding the UNSW Dataset
 
